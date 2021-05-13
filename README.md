@@ -55,13 +55,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="NemanjaCvetkovic1993's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?nemanjacvetkovic1993=jasongaylord&count_private=true&theme=tokyonight&showicons=true" />
+  <img align="left" alt="NemanjaCvetkovic1993's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nemanjacvetkovic1993&count_private=true&theme=tokyonight&showicons=true" />
 
 </details>
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="NemanjaCvetkovic1993's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?nemanjacvetkovic1993=jasongaylord&langs_count=5&theme=tokyonight" />
+  <img align="left" alt="NemanjaCvetkovic1993's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemanjacvetkovic1993&langs_count=5&theme=tokyonight" />
 
 </details>
 
