@@ -1,12 +1,13 @@
-### Hi there, I'm Nemanja - [nemanjacvetkovic1993.com][website] 👋
+<!-- ### Hi there, I'm Nemanja - [nemanjacvetkovic1993.com][website] 👋 -->
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Flutter Developer & Designer
+## Hi there, I'm a Flutter Developer & Designer
 
 - 👯 I’m currentily looking for a team with whom I can make great stuff
 - 🔭 Find my apps on [GooglePlay][googleplay]!
+- 🔭 Visit my website [nemanjacvetkovic1993.com][website]
 - 🌱 Apart from Flutter, I am also an amateur game developer with C# & Unity 😁
 - ⚡ Fun fact: I speak 6 languages (English, Serbian, German, Italian, Spanish, Russian).
 
@@ -63,7 +64,7 @@
 
   <!-- <img align="left" alt="NemanjaCvetkovic1993's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemanjacvetkovic1993&langs_count=5&theme=tokyonight" />
 
-</details> --> -->
+</details> -->
 
 [website]: https://nemanjacvetkovic1993.com
 [instagram]: https://instagram.com/nemanja.cv
