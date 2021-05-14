@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nemanjacvetkovic1993.com" style="fill:#AB7C94;" color="green" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nemanjacvetkovic1993.com | LinkedIn" fill:#AB7C94; style="color:red;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nemanjacvetkovic1993.com | Instagram" style="background-color:red;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nemanjacvetkovic1993.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nemanjacvetkovic1993.com | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nemanjacvetkovic1993.com | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
