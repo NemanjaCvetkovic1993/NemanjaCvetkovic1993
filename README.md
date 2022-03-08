@@ -5,10 +5,10 @@
 
 ## Hi there, I'm a Flutter Developer & Designer
 
-- 👯 I’m currentily looking for a team with whom I can make great stuff
+- 👯 I’m currentily looking for a team with whom I can make great stuff.
 - 🔭 Find my apps on [GooglePlay][googleplay]!
 - 🔭 Visit my website [nemanjacvetkovic1993.com][website]
-- 🌱 Apart from Flutter, I am also an amateur game developer with C# & Unity 😁
+- 🌱 Apart from Flutter, I am learning Solidity and Blockchain technology.
 - ⚡ Fun fact: I speak 6 languages (English, Serbian, German, Italian, Spanish, Russian).
 
 ### Connect with me:
