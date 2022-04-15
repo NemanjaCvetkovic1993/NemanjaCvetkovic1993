@@ -41,7 +41,7 @@
 <!-- APPS:START -->
 
 - [Business Tips Daily](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong)
-- [Sounds of Nature](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong)
+- [Sounds of Nature](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.soundsofnature)
 - [The Mysterious Song](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong)
 <!-- - [Football Club App](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong) -->
 
