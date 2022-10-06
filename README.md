@@ -17,8 +17,6 @@
 [<img align="left" alt="nemanjacvetkovic1993.com | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nemanjacvetkovic1993.com | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
 <!--
 ### Languages and Tools:
 
@@ -78,8 +76,8 @@
 [appBTD]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.businesstipsdaily
 [appTMS]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong
 
-[appYBS]: www.yellowbottlestudio.com
-[appNW]: www.nemanja.one
+[appYBS]: https://www.yellowbottlestudio.com
+[appNW]: https://www.nemanja.one
 
 
 <!--
