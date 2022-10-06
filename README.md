@@ -7,9 +7,9 @@
 
 - 👯 I’m currentily looking for a team with whom I can make great stuff.
 - 🔭 Find my apps on [GooglePlay][googleplay]!
-- 🔭 Visit my website [nemanjacvetkovic1993.com][website]
-- 🌱 Apart from Flutter, I am learning Solidity and Blockchain technology.
-- ⚡ Fun fact: I speak 6 languages (English, Serbian, German, Italian, Spanish, Russian).
+- 🔭 Visit my website [nemanja.one][website]
+- 🌱 Apart from Flutter, I am learning about application security and safety using Kali Linux.
+- ⚡ Fun fact: I speak 4 languages (English, Serbian, Italian, German) and undertand 2 more (Spanish & Russian).
 
 ### Connect with me:
 
@@ -19,6 +19,7 @@
 
 <br />
 
+<!--
 ### Languages and Tools:
 
 [<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][googleplay]
@@ -30,24 +31,27 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][googleplay]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][googleplay]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][googleplay]
+-->
 
 <br />
 <br />
 
 ---
 
-### 📺 My Latest Apps on GooglePlay
+### 📺 My Apps on GooglePlay
 
 <!-- APPS:START -->
 
-- [Business Tips Daily](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong)
-- [Sounds of Nature](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.soundsofnature)
-- [The Mysterious Song](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong)
-<!-- - [Football Club App](https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong) -->
+- [Learn NFT][appLN]
+- [Sounds of Nature][appSON]
+- [Business Tips Daily][appBTD]
+- [The Mysterious Song][appTMS]
 
 <!-- APPS:END -->
 
-➡️ [more Apps...][googleplay]
+### 📺 My Websites
+- [Yellow Bottle Studio][appYBS]
+- [Nemanja Portfolio][appNW]
 
 ---
 
@@ -68,6 +72,15 @@
 [instagram]: https://instagram.com/nemanja.cv
 [linkedin]: https://www.linkedin.com/in/nemanja-cvetkovic/
 [googleplay]: https://play.google.com/store/apps/developer?id=Yellow+Bottle+Studio
+
+[appLN]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.learnnft
+[appSON]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.soundsofnature
+[appBTD]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.businesstipsdaily
+[appTMS]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong
+
+[appYBS]: www.yellowbottlestudio.com
+[appNW]: www.nemanja.one
+
 
 <!--
 **NemanjaCvetkovic1993/NemanjaCvetkovic1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
