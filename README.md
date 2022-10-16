@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## Hi there, I'm a Flutter Developer & Designer
+## Hi there, I'm Flutter Developer & Designer
 
 - 👯 I’m currentily looking for a team with whom I can make great stuff.
 - 🔭 Find my apps on [GooglePlay][googleplay]!
@@ -63,7 +63,7 @@
 
 </details> -->
 
-[website]: https://nemanjacvetkovic1993.com
+[website]: https://nemanja.one
 [instagram]: https://instagram.com/nemanja.cv
 [linkedin]: https://www.linkedin.com/in/nemanja-cvetkovic/
 [googleplay]: https://play.google.com/store/apps/developer?id=Yellow+Bottle+Studio
