@@ -5,11 +5,11 @@
 
 ## Hi there, I'm Flutter Developer & Designer
 
-- 👯 I’m currentily looking for a team with whom I can make great stuff.
-- 🔭 Find my apps on [GooglePlay][googleplay]!
+- 👨‍💻 I’m currentily looking for a team with whom I can make great stuff.
+- 📲 Find my apps on [GooglePlay][googleplay]!
 - 🔭 Visit my website [nemanja.one][website]
-- 🌱 Apart from Flutter, I am learning about application security and safety using Kali Linux.
-- ⚡ Fun fact: I speak 4 languages (English, Serbian, Italian, German) and undertand 2 more (Spanish & Russian).
+- 🤖 Apart from Flutter, I am learning about application security and safety using Kali Linux.
+- 💿 Fun fact: I speak 4 languages (English, Serbian, Italian, German) and undertand 2 more (Spanish & Russian).
 
 ### Connect with me:
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 📺 My Apps on GooglePlay
+### 📱 My Apps on GooglePlay
 
 <!-- APPS:START -->
 
@@ -43,7 +43,7 @@
 - [Business Tips Daily][appBTD]
 - [The Mysterious Song][appTMS]
 
-### 📺 My Websites
+### 🖥️ My Websites
 - [Yellow Bottle Studio][appYBS]
 - [Nemanja Portfolio][appNW]
 
