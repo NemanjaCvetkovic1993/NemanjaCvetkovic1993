@@ -11,7 +11,7 @@
 - 🛡️ Apart from Flutter, I am learning about application security and safety using Kali Linux.
 - 💿 Fun fact: I speak 4 languages (English, Serbian, Italian, German) and undertand 2 more (Spanish & Russian).
 
-### Connect with me:
+### 🔗 Connect with me:
 
 [<img align="left" alt="nemanjacvetkovic1993.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nemanjacvetkovic1993.com | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -51,7 +51,7 @@
 ---
 
 <details>
-  <summary>:neckbeard: GitHub Stats</summary>
+  <summary>:octocat: GitHub Stats</summary>
 
   <img align="left" alt="NemanjaCvetkovic1993's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nemanjacvetkovic1993&count_private=true&theme=tokyonight&showicons=true" />
 
