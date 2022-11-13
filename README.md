@@ -8,7 +8,7 @@
 - 👨‍💻 I’m currentily looking for a team with whom I can make great stuff.
 - 📲 Find my apps on [GooglePlay][googleplay]!
 - 🔭 Visit my website [nemanja.one][website]
-- 🤖 Apart from Flutter, I am learning about application security and safety using Kali Linux.
+- 🛡️ Apart from Flutter, I am learning about application security and safety using Kali Linux.
 - 💿 Fun fact: I speak 4 languages (English, Serbian, Italian, German) and undertand 2 more (Spanish & Russian).
 
 ### Connect with me:
@@ -51,7 +51,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:neckbeard: GitHub Stats</summary>
 
   <img align="left" alt="NemanjaCvetkovic1993's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nemanjacvetkovic1993&count_private=true&theme=tokyonight&showicons=true" />
 
