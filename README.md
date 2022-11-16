@@ -13,10 +13,17 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" width="24px" />]
-[<img align="left" alt="nemanjacvetkovic1993 | LinkedIn" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<dl>
+  <dd>
+    <dl>
+      <dd>
+        [<img align="left" alt="nemanjacvetkovic1993 | LinkedIn" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+      </dd>
+    </dl>
+  </dd>
+</dl>
 [<img align="left" alt="nemanjacvetkovic1993 | Instagram" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-[<img align="left" alt="nemanjacvetkovic1993 | Telegram" width="26px" src="https://github.com/mach1el/pchat/blob/master/server/telegram.svg" />][telegram]
+[<img align="left" alt="nemanjacvetkovic1993 | Telegram" width="27px" src="https://github.com/mach1el/pchat/blob/master/server/telegram.svg" />][telegram]
 [<img align="left" alt="nemanjacvetkovic1993 | Dribbble" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" />][dribbble]
 
 <!--
