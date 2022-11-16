@@ -13,9 +13,10 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="nemanjacvetkovic1993.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nemanjacvetkovic1993.com | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nemanjacvetkovic1993.com | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="nemanjacvetkovic1993" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="nemanjacvetkovic1993 | LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" />][linkedin]
+[<img align="center" alt="nemanjacvetkovic1993 | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+[<img align="center" alt="nemanjacvetkovic1993 | Dribbble" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" />][dribbble]
 
 <!--
 ### Languages and Tools:
@@ -51,7 +52,7 @@
 ---
 
 <details>
-  <summary>:octocat: GitHub Stats</summary>
+  <summary>:octocat:  GitHub Stats</summary>
 
   <img align="left" alt="NemanjaCvetkovic1993's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nemanjacvetkovic1993&count_private=true&theme=tokyonight&showicons=true" />
 
@@ -66,6 +67,7 @@
 [website]: https://nemanja.one
 [instagram]: https://instagram.com/nemanja.cv
 [linkedin]: https://www.linkedin.com/in/nemanja-cvetkovic/
+[dribbble]: https://dribbble.com/NemanjaCvetkovic
 [googleplay]: https://play.google.com/store/apps/developer?id=Yellow+Bottle+Studio
 
 [appLN]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.learnnft
