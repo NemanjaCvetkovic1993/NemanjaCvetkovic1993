@@ -13,7 +13,7 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="nemanjacvetkovic1993 | LinkedIn" width="24px" style="margin-left: 30px; src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="nemanjacvetkovic1993 | LinkedIn" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="nemanjacvetkovic1993 | Instagram" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="nemanjacvetkovic1993 | Telegram" width="28px" src="https://github.com/mach1el/pchat/blob/master/server/telegram.svg" />][telegram]
 [<img align="left" alt="nemanjacvetkovic1993 | Dribbble" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" />][dribbble]
