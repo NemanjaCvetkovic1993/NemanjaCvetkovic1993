@@ -71,9 +71,9 @@
 [dribbble]: https://dribbble.com/NemanjaCvetkovic
 [googleplay]: https://play.google.com/store/apps/developer?id=Yellow+Bottle+Studio
 
-[appLN]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.learnnft
+[appLN]: https://play.google.com/store/apps/details?id=com.neonrevolutionstudio.learnnft
 [appSON]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.soundsofnature
-[appBTD]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.businesstipsdaily
+[appBTD]: https://play.google.com/store/apps/details?id=com.neonrevolutionstudio.businesstipsdaily
 [appTMS]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong
 
 [appYBS]: https://www.yellowbottlestudio.com
