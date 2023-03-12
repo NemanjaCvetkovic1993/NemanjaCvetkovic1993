@@ -6,7 +6,7 @@
 ## Hi there, I'm Flutter Developer & Designer
 
 - 👨‍💻 I’m currentily looking for a team with whom I can make great stuff.
-- 📲 Find my apps here ([GooglePlay])[googleplay1] or here ([GooglePlay])[googleplay2]!
+- 📲 Find my apps here [(GooglePlay)][googleplay1] or here [(GooglePlay)][googleplay2]!
 - 🔭 Visit my website [nemanja.one][website]
 - 🛡️ Apart from Flutter, I am learning about application security and safety using Kali Linux.
 - 💿 Fun fact: I speak 4 languages (English, Serbian, Italian, German) and undertand 2 more (Spanish & Russian).
