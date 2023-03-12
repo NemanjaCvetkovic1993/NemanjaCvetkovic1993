@@ -6,7 +6,7 @@
 ## Hi there, I'm Flutter Developer & Designer
 
 - 👨‍💻 I’m currentily looking for a team with whom I can make great stuff.
-- 📲 Find my apps on [GooglePlay][googleplay]!
+- 📲 Find my apps here ([GooglePlay])[googleplay1] or here ([GooglePlay])[googleplay2]!
 - 🔭 Visit my website [nemanja.one][website]
 - 🛡️ Apart from Flutter, I am learning about application security and safety using Kali Linux.
 - 💿 Fun fact: I speak 4 languages (English, Serbian, Italian, German) and undertand 2 more (Spanish & Russian).
@@ -69,7 +69,8 @@
 [linkedin]: https://www.linkedin.com/in/nemanja-cvetkovic/
 [telegram]: https://t.me/NemanjaCvetkovic
 [dribbble]: https://dribbble.com/NemanjaCvetkovic
-[googleplay]: https://play.google.com/store/apps/developer?id=Yellow+Bottle+Studio
+[googleplay1]: https://play.google.com/store/apps/dev?id=7317299848601666651
+[googleplay2]: https://play.google.com/store/apps/dev?id=7246978568524895246
 
 [appLN]: https://play.google.com/store/apps/details?id=com.neonrevolutionstudio.learnnft
 [appSON]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.soundsofnature
