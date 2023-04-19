@@ -44,9 +44,12 @@
 - [Business Tips Daily][appBTD]
 - [The Mysterious Song][appTMS]
 
-### 🖥️ My Websites
+### 💻 My Websites
 - [Yellow Bottle Studio][appYBS]
 - [Nemanja Portfolio][appNW]
+
+### 🖥️ My Windows / Mac Apps
+- [Vote Me Up][appVMU]
 
 <!-- APPS:END -->
 ---
@@ -79,6 +82,8 @@
 
 [appYBS]: https://www.yellowbottlestudio.com
 [appNW]: https://www.nemanja.one
+
+[appVMU]: https://www.yellowbottlestudio.com/vote-me-up
 
 
 <!--
