@@ -42,7 +42,7 @@
 - [Learn NFT][appLN]
 - [Sounds of Nature][appSON]
 - [Business Tips Daily][appBTD]
-- [The Mysterious Song][appTMS]
+- [Mysterious Song][appTMS]
 
 ### 💻 My Websites
 - [Yellow Bottle Studio][appYBS]
