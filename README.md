@@ -43,6 +43,7 @@
 - [Sounds of Nature][appSON]
 - [Business Tips Daily][appBTD]
 - [Guess The Search (Beta Version)][appGTS]
+- [Fermi Paradox][appFP]
 - [Mysterious Song][appTMS]
 
 ### 💻 My Websites
@@ -81,6 +82,7 @@
 [appBTD]: https://play.google.com/store/apps/details?id=com.neonrevolutionstudio.businesstipsdaily
 [appGTS]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.guessthesearch
 [appTMS]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong
+[appFP]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.fermiparadox
 
 [appYBS]: https://www.yellowbottlestudio.com
 [appNW]: https://www.nemanja.one
