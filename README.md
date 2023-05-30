@@ -39,9 +39,9 @@
 
 <!-- APPS:START -->
 
-- [Learn NFT][appLN]
 - [Sounds of Nature][appSON]
 - [Business Tips Daily][appBTD]
+- [Learn NFT][appLN]
 - [Guess The Search (Beta Version)][appGTS]
 - [Fermi Paradox][appFP]
 - [Mysterious Song][appTMS]
