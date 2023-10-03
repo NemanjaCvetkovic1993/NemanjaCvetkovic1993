@@ -39,10 +39,11 @@
 
 <!-- APPS:START -->
 
-- [Sounds of Nature][appSON]
-- [Business Tips Daily][appBTD]
-- [Learn NFT][appLN]
 - [Guess The Search (Beta Version)][appGTS]
+- [Learn NFT][appLN]
+- [Business Tips Daily][appBTD]
+- [Business Tasks (Beta Version)][appBT]
+- [Sounds of Nature][appSON]
 - [Fermi Paradox][appFP]
 - [Mysterious Song][appTMS]
 
@@ -83,6 +84,7 @@
 [appGTS]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.guessthesearch
 [appTMS]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.themysterioussong
 [appFP]: https://play.google.com/store/apps/details?id=com.yellowbottlestudio.fermiparadox
+[appBT]: https://play.google.com/store/apps/details?id=com.neonrevolutionstudio.businesstasks
 
 [appYBS]: https://www.yellowbottlestudio.com
 [appNW]: https://www.nemanja.one
