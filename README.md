@@ -39,12 +39,12 @@
 
 <!-- APPS:START -->
 
-- [Guess The Search (Beta Version)][appGTS]
-- [Learn NFT][appLN]
 - [Business Tips Daily][appBTD]
-- [Business Tasks (Beta Version)][appBT]
+- [Guess The Search (Beta Version)][appGTS]
 - [Sounds of Nature][appSON]
+- [Learn NFT][appLN]
 - [Fermi Paradox][appFP]
+- [Business Tasks (Beta Version)][appBT]
 - [Mysterious Song][appTMS]
 
 ### 💻 My Websites
