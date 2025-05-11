@@ -48,7 +48,7 @@
 - [Mysterious Song][appTMS]
 
 ### 💻 My Websites
-- [Yellow Bottle Studio][appYBS]
+<!-- - [Yellow Bottle Studio][appYBS] -->
 - [Nemanja Portfolio][appNW]
 
 ### 🖥️ My Windows / Mac Apps
